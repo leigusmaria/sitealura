@@ -18,3 +18,15 @@
 p {
 	text-align: center;
 }
+
+ul{
+
+display: inline-block;
+vertical-align: top;
+widht:20%;
+margin-right:15%;
+}
+
+.imagembeneficios {
+	widht:50%
+}
